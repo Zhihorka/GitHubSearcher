@@ -24,4 +24,4 @@
 ✅ yarn run start
 
 
-✉️ if something is wrong, write to me here in GitHub 
+✉️ if something is wrong, write to me here nikita.grechka@bl.ru
