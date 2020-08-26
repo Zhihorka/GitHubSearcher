@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/GitHubSearcher/static/css/main.51979829.chunk.css",
-    "main.js": "/GitHubSearcher/static/js/main.5ca02d74.chunk.js",
-    "main.js.map": "/GitHubSearcher/static/js/main.5ca02d74.chunk.js.map",
+    "main.js": "/GitHubSearcher/static/js/main.bff071c2.chunk.js",
+    "main.js.map": "/GitHubSearcher/static/js/main.bff071c2.chunk.js.map",
     "runtime-main.js": "/GitHubSearcher/static/js/runtime-main.3884631f.js",
     "runtime-main.js.map": "/GitHubSearcher/static/js/runtime-main.3884631f.js.map",
-    "static/js/2.b00d4602.chunk.js": "/GitHubSearcher/static/js/2.b00d4602.chunk.js",
-    "static/js/2.b00d4602.chunk.js.map": "/GitHubSearcher/static/js/2.b00d4602.chunk.js.map",
+    "static/js/2.33fbec76.chunk.js": "/GitHubSearcher/static/js/2.33fbec76.chunk.js",
+    "static/js/2.33fbec76.chunk.js.map": "/GitHubSearcher/static/js/2.33fbec76.chunk.js.map",
     "index.html": "/GitHubSearcher/index.html",
-    "precache-manifest.72c07d96ececcec77a34241dd4571a38.js": "/GitHubSearcher/precache-manifest.72c07d96ececcec77a34241dd4571a38.js",
+    "precache-manifest.3e7ca42f75cf1617cdd229ed4d88d4c0.js": "/GitHubSearcher/precache-manifest.3e7ca42f75cf1617cdd229ed4d88d4c0.js",
     "service-worker.js": "/GitHubSearcher/service-worker.js",
     "static/css/main.51979829.chunk.css.map": "/GitHubSearcher/static/css/main.51979829.chunk.css.map",
-    "static/js/2.b00d4602.chunk.js.LICENSE.txt": "/GitHubSearcher/static/js/2.b00d4602.chunk.js.LICENSE.txt"
+    "static/js/2.33fbec76.chunk.js.LICENSE.txt": "/GitHubSearcher/static/js/2.33fbec76.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3884631f.js",
-    "static/js/2.b00d4602.chunk.js",
+    "static/js/2.33fbec76.chunk.js",
     "static/css/main.51979829.chunk.css",
-    "static/js/main.5ca02d74.chunk.js"
+    "static/js/main.bff071c2.chunk.js"
   ]
 }
